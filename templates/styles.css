@@ -1,0 +1,7 @@
+/* Add your custom CSS styles here */
+
+/* Example: Centering the container */
+.container {
+    margin: 0 auto;
+    max-width: 600px;
+}
